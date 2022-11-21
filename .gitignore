@@ -1,0 +1,8 @@
+application/*
+*.xlsx
+*.rar
+*.enl
+*.ipynb
+*.txt
+*.accdb
+MsZahraAbedi.Data/
